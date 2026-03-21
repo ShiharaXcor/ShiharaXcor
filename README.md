@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Shan
 
-<!--
-**ShiharaXcor/ShiharaXcor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Data Science Student at [Sri Lanka Institute of Information Technology (SLIIT)](https://www.sliit.lk/)  
+🚀 Passionate about AI, Machine Learning & Building Real-World Systems  
+📊 Currently working on ML projects, stock prediction models, and backend systems  
 
-Here are some ideas to get you started:
+💡 I focus on:
+- Machine Learning & AI Projects
+- Full Stack Development (React + Spring Boot)
+- Building scalable real-world applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Shan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShiharaXcor&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiharaXcor&layout=compact&theme=radical)
