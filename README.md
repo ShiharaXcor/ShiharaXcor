@@ -22,6 +22,8 @@
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ShiharaXcor&theme=radical)
+
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ShiharaXcor&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiharaXcor&layout=compact&theme=radical)
