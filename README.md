@@ -24,6 +24,6 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShiharaXcor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=ShiharaXcor)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiharaXcor&layout=compact&theme=radical)
